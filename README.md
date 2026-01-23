@@ -101,9 +101,17 @@
 
 ## 🏆 Achievements
 
+### 🥇 Hackathon Achievement
+- 🏢 **Hackathon by Niveus Solutions Pvt. Ltd**
+- 🚀 Built a **Personalized AI Study Planner**
+- ☁️ Leveraged **Google Cloud Platform (GCP)** for scalable AI workflows
+- 🧠 Implemented **ML-based Optimization (mCP-based approach)** for personalized learning paths
+- 🎯 Focused on adaptive learning, performance tracking & intelligent scheduling
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shrujansacharya&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+
 
 ---
 
