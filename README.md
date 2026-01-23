@@ -24,9 +24,9 @@
 
 > **I build scalable, intelligent, and user-centric applications by blending full-stack engineering with applied AI.**
 
-- 🚀 Full-Stack & AI Developer focused on **real-world, production-ready systems**
+- 🚀 AI Developer & Full-Stack focused on **real-world, production-ready systems**
 - 🧠 Currently building **AI-powered learning platforms & smart web products**
-- 📊 Passionate about **Machine Learning, Data Science & Applied AI**
+- 📊 Passionate about **Machine Learning, Data Science Data Analytics & Applied AI**
 - 🤝 Open to collaborating on **AI/ML, Ed-Tech & Full-Stack projects**
 - 🌱 Always learning, always shipping — *ideas → systems → impact*
 
