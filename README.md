@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Shrujan S Acharya</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI & ML Enthusiast | 🌍 Building Intelligent Web Experiences</h3>
+<h3 align="center">🚀 Entry-Level AI & ML Engineer | 🤖 Python, Machine Learning, Data Analysis | 🌍 Building Intelligent Web Experiences</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/Shrujan S Acharya">
