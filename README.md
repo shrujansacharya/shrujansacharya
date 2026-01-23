@@ -1,37 +1,33 @@
 <!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Shrujan S Acharya</span></h1>
-
-<h3 align="center">
-🚀 Entry-Level AI & ML Engineer <br/>
-🤖 Python • Machine Learning • Data Analytics <br/>
-🌍 Building Intelligent, Scalable Web Experiences
-</h3>
+<h3 align="center">🚀 Entry-Level AI & ML Engineer | 🤖 Python, Machine Learning, Data Analysis | 🌍 Building Intelligent Web Experiences</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/Shrujan S Acharya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:acharyashrujan1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/shrujan_acharya_06">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
 ## 🧠 About Me
 
-> **I design and build intelligent, user-centric systems by combining applied AI with modern full-stack engineering.**
+> **I build scalable, intelligent, and user-centric applications by blending full-stack engineering with applied AI.**
 
-- 🚀 Entry-Level **AI & ML Engineer** with hands-on project experience
-- 🧠 Actively developing **AI-powered learning platforms**
-- 📊 Strong interest in **Machine Learning, Data Analytics & Applied AI**
-- 🤝 Open to collaboration on **AI/ML, Ed-Tech & Full-Stack solutions**
-- 🌱 Continuous learner — turning **ideas → prototypes → scalable systems**
+- 🚀 AI Developer & Full-Stack focused on **real-world, production-ready systems**
+- 🧠 Currently building **AI-powered learning platforms & smart web products**
+- 📊 Passionate about **Machine Learning, Data Science Data Analytics & Applied AI**
+- 🤝 Open to collaborating on **AI/ML, Ed-Tech & Full-Stack projects**
+- 🌱 Always learning, always shipping — *ideas → systems → impact*
 
-⚡ **Fun Fact:** I enjoy simplifying complex problems into elegant technical solutions.
+⚡ **Fun Fact:** I enjoy turning complex problems into clean, elegant technical solutions.
 
 ---
 
@@ -79,10 +75,10 @@
 
 ### ☁️ DevOps & Deployment
 <p>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/>
+<img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
 ---
@@ -105,27 +101,27 @@
 
 ## 🏆 Achievements
 
-### 🥇 Hackathon – Niveus Solutions Pvt. Ltd
-**Personalized AI Study Planner**
-
-- 🚀 Designed and developed an **AI-driven personalized learning system**
-- ☁️ Deployed scalable workflows using **Google Cloud Platform (GCP)**
-- 🧠 Applied **ML-based (mCP-driven) optimization** for adaptive study planning
-- 🎯 Enabled intelligent scheduling, progress tracking & performance insights
+### 🥇 Hackathon Achievement
+- 🏢 **Hackathon by Niveus Solutions Pvt. Ltd**
+- 🚀 Built a **Personalized AI Study Planner**
+- ☁️ Leveraged **Google Cloud Platform (GCP)** for scalable AI workflows
+- 🧠 Implemented **ML-based Optimization (mCP-based approach)** for personalized learning paths
+- 🎯 Focused on adaptive learning, performance tracking & intelligent scheduling
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shrujansacharya&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
+
 ---
 
 ## 🤝 Let’s Build Something Impactful
 
-💡 *Interested in AI, ML, Full-Stack, or Ed-Tech collaborations? Let’s connect.*  
-📫 **Email:** `acharyashrujan1@gmail.com`
+💡 *If you're working on AI, ML, Full-Stack, or Ed-Tech ideas — let’s collaborate.*  
+📫 **Reach me at:** `acharyashrujan1@gmail.com`
 
 ---
 
 <p align="center">
-  <i>“Code isn’t just written — it’s engineered, refined, and scaled.”</i>
+  <i>“Code is not just written — it’s engineered, refined, and scaled.”</i>
 </p>
