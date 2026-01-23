@@ -14,9 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shrujansacharya&icon=6&color=11" />
-</p>
 
 ---
 
