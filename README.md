@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Entry-Level AI & ML Engineer | 🤖 Python, Machine Learning, Data Analysis | 🌍 Building Intelligent Web Experiences</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Shrujan S Acharya">
+  <a href="https://www.linkedin.com/in/shrujan-s-acharya-a8642226a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:acharyashrujan1@gmail.com">
